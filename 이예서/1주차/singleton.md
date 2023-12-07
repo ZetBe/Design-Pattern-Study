@@ -1,4 +1,4 @@
-## 싱글톤 패턴
+## Singleton 패턴
 
 > JavaScript 기준으로 설명합니다.
 

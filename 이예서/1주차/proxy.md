@@ -1,4 +1,4 @@
-## 프록시 패턴
+## Proxy 패턴
 
 > JavaScript 기준으로 설명합니다.
 
@@ -31,7 +31,8 @@
 
 - `get()` 메소드: `obj[prop]` -> `Reflect.get(obj, prop)`
 - `set()` 메소드: `obj[prop] = value` -> `Reflect.set(obj, prop, value)`
-  더 많은 예시는 [이 문서](https://ko.javascript.info/proxy#ref-274)에서 확인할 수 있다.
+
+더 많은 예시는 [이 문서](https://ko.javascript.info/proxy#ref-274)에서 확인할 수 있다.
 
 ## 구현 예시
 
@@ -144,4 +145,3 @@ profileProxy.age = 21; // → age 속성이 21로 변경되었어요.
 - [Proxy pattern | Wikipedia](https://en.wikipedia.org/wiki/Proxy_pattern)
 - [Proxy 패턴 | patterns.dev](https://patterns-dev-kr.github.io/design-patterns/proxy-pattern/)
 - [프록시 패턴에 대하여 | 코딩팩토리](https://coding-factory.tistory.com/711)
-  ㄴ
