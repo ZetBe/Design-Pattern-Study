@@ -21,5 +21,9 @@ https://patterns-dev-kr.github.io/ 의 자료를 토대로 진행합니다.
     <td>진행 범위</td>
     <td>스터디 일지</td>
   </tr>
-  
+  <tr>
+  <td>1주차</td>
+    <td>12/7</td>
+    <td>Singleton, Proxy, Provider, Prototype</td>
+  </tr>
 </table>
